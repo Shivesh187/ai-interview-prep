@@ -1,1 +1,9 @@
-node_modules/\n.env\n.gradle/\n.idea/\nbuild/\nlocal.properties\n*.iml\ndist/
+node_modules/
+*.env
+*.err
+*.gradle/
+.idea/
+.build/
+local.properties
+.val/
+dist/
